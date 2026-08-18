@@ -1,5 +1,11 @@
 s = "abcdefghijklmnopqrswxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_"
 
+
+
+
+
+
+
 username = "ali1 23"
 
 b = True
