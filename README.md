@@ -27,3 +27,6 @@ this is a est document for my repository. bla bla bla bla bla bla bla bla bla bl
   - tehran
   - varamin
 
+# tasks:
+- [ ] task1
+- [x] task1
